@@ -1,4 +1,4 @@
-def promedio(numeros):
+def promedioesperon(numeros):
     """Devuelve el promedio de una lista de números."""
     if not numeros:
         return None
