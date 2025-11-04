@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "./funciones",
+        "./tests",
+        "."
+    ],
+    "python.testing.pytestEnabled": true
+}
