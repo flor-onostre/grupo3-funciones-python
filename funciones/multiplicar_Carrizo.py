@@ -1,5 +1,5 @@
 #funciones/multiplicar.py
-def multiplicar_Carrizo(a, b):
+def multiplicar(a, b):
 
     """Devuelve el producto de dos números."""
 
