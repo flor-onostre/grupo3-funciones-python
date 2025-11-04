@@ -1,4 +1,4 @@
-from funciones.promedio import PromedioEsperon
+from funciones.promedioesperon import promedioesperon
 
 def test_promedioEsperon():
     assert promedio([2, 4, 6]) == 4
