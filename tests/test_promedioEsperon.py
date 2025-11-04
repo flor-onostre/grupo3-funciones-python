@@ -1,5 +1,5 @@
-from funciones.promedioesperon import promedioesperon
+from funciones.PromedioEsperon import PromedioEsperon
 
 def test_promedioesperon():
-    assert promedioesperon([2, 4, 6]) == 4
-    assert promedioesperon([]) is None
+    assert PromedioEsperon([2, 4, 6]) == 4
+    assert PromedioEsperon([]) is None
